@@ -18,15 +18,9 @@
 
 ///////Livros para ler e comprar(Crescimento Pessoal/ Psicologia) - Em ordem de qual comprar /////////
 
-- A Divina Comédia Purgatório - Dante Alighieri
-- A Divina Comédia Inferno - Dante Alighieri
-- A Divina Comédia Paraíso - Dante Alighieri
-- Drácula - First Edition por Bram Stoker
-- Odisseia por Homero
-- Íliada por Homero
-- A revolução dos bichos - George Orwell
-- Dentro da baleia e outros ensaios - George Orwell
-- 1984 -George Orwell
+- A Arte da Guerra Segundo os Seals da Marinha Norte - Americana por Rob Roy Chris Lawson
+- Manual de Persuasão do FBI - Jack Shafer e Marvin Karlins
+- Meditações Autor: Marco Aurélio
 - O monge e o executivo por James C. Hunter
 - Em busca de nós mesmos  por Clóvis de Barros Filho
 - Em Busca De Sentido: Um psicólogo no campo de concentração  por Viktor E. Frankl
@@ -45,7 +39,17 @@
 
 ///////Livros para ler e comprar(História e Ficção) - Em ordem de qual comprar /////////
 
-
+- Grandes obras de Shakespeare  de William Shakespeare
+- As extraordinárias viagens de Júlio Verne de Júlio Verne, Frank Oliveira
+- A Divina Comédia Purgatório - Dante Alighieri
+- A Divina Comédia Inferno - Dante Alighieri
+- A Divina Comédia Paraíso - Dante Alighieri
+- Drácula - First Edition por Bram Stoker
+- Odisseia por Homero
+- Íliada por Homero
+- A revolução dos bichos - George Orwell
+- Dentro da baleia e outros ensaios - George Orwell
+- 1984 -George Orwell
 - O apanhador no campo de centeio -J.D. Salinger
 - Memórias do subsolo- Fiódor Dostoiévski (Autor)
 - A Revolta de Atlas por Ayn Rand
@@ -54,7 +58,6 @@
 /// Ordem dos Livros a Ler ///
 
 - HTML e CSS3 Domine a Web do futuro -  Lucas Mazza
-- Arrume a sua cama: Pequenas coisas que podem mudar a sua vida... E talvez o mundo - William H. McRaven
 - Musashi: O livro dos cinco anéis - Miyamoto Musashi  (Autor)
 - 12 regras para a vida: Um antídoto para o caos de Jordan B. Peterson
 - Os crimes do mosaico -  Giulio Leoni (Autor)
@@ -83,6 +86,8 @@
 
 ////Lidos/////
 
+- Arrume a sua cama: Pequenas coisas que podem mudar a sua vida... E talvez o mundo - William H. McRaven
+- Rápido e Devagar: Duas Formas de Pensar -Livro por Daniel Kahneman
 - A metamorfose -  Franz Kafka
 - Diário de Anne Frank - Livro por Anne Frank
 - Declínio de um homem -Livro por Osamu Dazai
