@@ -55,28 +55,35 @@
 - A Revolta de Atlas por Ayn Rand
 
 
-/// Ordem dos Livros a Ler ///
+///Livros Programação///
 
+- Guia Front-End: O caminho das pedras para ser um dev Front-End Livro por Diego Eis
 - HTML e CSS3 Domine a Web do futuro -  Lucas Mazza
+- HTML5 e CSS3 com Farinha e Pimenta por Diego Eis
+- UX e Usabilidade aplicados em Mobile e Web - Caelum
+- Introdução e boas práticas em UX Design Autor-Fabricio Teixeira
+- Java: como programar Autor - P.J. Deitel
+- Linux - A bíblia por Christopher Negus
+- Código Limpo - Livro por Robert Cecil Martin
+- Refactoring: Improving the Design of Existing Code - Martin Fowler
+- Domain-Driven Design: Atacando as complexidades no coração do software -Eric Evans 
+- O retorno do cangaceiro JavaScript Autor - Flávio Almeida
+
+
+
+/// Ordem dos Livros a Ler ///
 
 - 12 regras para a vida: Um antídoto para o caos de Jordan B. Peterson
 - Os crimes do mosaico -  Giulio Leoni (Autor)
 - A Arte da Guerra - SUN TZU (Autor)
-- Introdução e boas práticas em UX Design Autor-Fabricio Teixeira
 - Pai Rico, Pai Pobre - Robert Kiyosaki
 - Uma gota de sangue: história do pensamento racial  por Demétrio Magnoli
 - Estado e capital na China por Renildo Souza
 - O bazar dos sonhos ruins - Livro por Stephen King
 - Inteligência Emocional - Daniel Goleman
-- Java: como programar Autor - P.J. Deitel
 - A Recepção do Darwinismo no Brasil  por Heloisa Maria Bertol Domingues
 - Misery -  Autor: Stephen King
-- O retorno do cangaceiro JavaScript Autor - Flávio Almeida
-- Linux-  A bíblia
 - Os 7 hábitos das pessoas altamente eficazes - Stephen R. Covey
-- Código Limpo - Livro por Robert Cecil Martin
-- Refactoring: Improving the Design of Existing Code - Martin Fowler
-- Domain-Driven Design: Atacando as complexidades no coração do software -Eric Evans 
 - Informação, conhecimento, ação autônoma e big data: continuidade ou revolução? por Daniel Martínez-Ávila
 - Levante se e fale - Dale Carnigie
 - Pachinko - Livro por Min Jin Lee
@@ -85,6 +92,7 @@
 - Progresso e Moral na Filosofia da História de Kant por Bruno Nadai 
 
 ////Lidos/////
+
 - Entendendo Algoritmos : Um guia ilustrado para programadores e outros curiosos - Livro por Aditya Y.Bhargava
 - Musashi: O livro dos cinco anéis - Miyamoto Musashi  (Autor)
 - Arrume a sua cama: Pequenas coisas que podem mudar a sua vida... E talvez o mundo - William H. McRaven
