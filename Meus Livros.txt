@@ -65,6 +65,7 @@
 - HTML5 e CSS3 com Farinha e Pimenta por Diego Eis
 - UX e Usabilidade aplicados em Mobile e Web - Caelum
 - Introdução e boas práticas em UX Design Autor-Fabricio Teixeira
+- Orientação a Objetos e SOLID para Ninjas Projetando classes flexíveis - Casa do Codigo
 - Java: como programar Autor - P.J. Deitel
 - Linux - A bíblia por Christopher Negus
 - Código Limpo - Livro por Robert Cecil Martin
