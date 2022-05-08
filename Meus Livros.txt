@@ -1,24 +1,9 @@
 -> Sempre comprar ou baixar o primeiro de cada lista
 
-///////Livros para ler e comprar(Economia e Investimento) - Em ordem de qual comprar /////////
-
-- Pai Rico, Pai Pobre - Robert Kiyosaki
-- O príncipe - Nicolau Maquiavel (Autor)
-- 50 ideias de economia que você precisa conhecer - Edmund Conway
-- O Livro da Economia - Vários Autores (Autor)
-- A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade
-- Introdução À Economia - N. Gregory Mankiw
-- Economia nua e crua: O que é, para que serve, como funciona - Charles Wheelan (Autor)
-- Gustavo H. B. Franco. Cartas a Um Jovem Economista - Gustavo Franco (Autor)
-- Os segredos da mente milionária - T. Harv Eker
-- História do pensamento econômico - E.K. Hunt (Autor), Howard J. Sherman (Autor)
-- Investindo em ações no longo prazo - Jeremy Siegel (Autor)
-- Investimentos inteligentes - Edição revista e atualizada: Estratégias para multiplicar seu patrimônio com segurança e eficiência - Gustavo Cerbasi
-- Empreendedores inteligentes enriquecem mais: Inteligência financeira para quem já tem ou quer começar o próprio negócio - Gustavo Cerbasi
-
 ///////Livros para ler e comprar(Crescimento Pessoal/ Psicologia) - Em ordem de qual comprar /////////
+
 - Faça o trabalho que precisa ser feito: Mantenha o foco. Realize mais. Gerencie sua energia. (Um guia acima da média - HBR)
--A arte de dar feedback: Motive sua equipe. Melhore a comunicação. Estabeleça objetivos   claros. (Um guia acima da média - HBR)
+- A arte de dar feedback: Motive sua equipe. Melhore a comunicação. Estabeleça objetivos   claros. (Um guia acima da média - HBR)
 - Como Avaliar Sua Vida? Livro por Clayton M
 - Peter Drucker: Melhores Práticas
 - A Arte da Guerra Segundo os Seals da Marinha Norte - Americana por Rob Roy Chris Lawson
@@ -39,6 +24,26 @@
 - Mindset: A nova psicologia do sucesso - Carol S. Dweck
 - Rápido e Devagar: Duas Formas de Pensar -Livro por Daniel Kahneman
 
+////Livros economia////
+
+- O príncipe - Nicolau Maquiavel (Autor)
+- A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade de Morgan Housel
+- O Mais Importante para o Investidor: Lições de um Gênio do Mercado Financeiro de Howard Marks
+- Incorporate & Grow Rich! (English Edition) de Cheri S. Hill
+- O jeito Warren Buffett de investir: Os segredos do maior investidor do mundo de Robert G. Hagstrom
+- Batendo o Mercado: Histórias e estratégias vencedoras de Peter Lynch, Henrique Bredda
+- Peter Drucker: Melhores Práticas
+- O Livro da Economia - Vários Autores (Autor)
+- 50 ideias de economia que você precisa conhecer - Edmund Conway
+- A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade
+- Empreendedores inteligentes enriquecem mais: Inteligência financeira para quem já tem ou quer começar o próprio negócio - Gustavo Cerbasi
+- Investimentos inteligentes - Edição revista e atualizada: Estratégias para multiplicar seu patrimônio com segurança e eficiência - Gustavo Cerbasi
+- Investindo em ações no longo prazo - Jeremy Siegel (Autor)
+- Gustavo H. B. Franco. Cartas a Um Jovem Economista - Gustavo Franco (Autor)
+- História do pensamento econômico - E.K. Hunt (Autor), Howard J. Sherman (Autor)
+- Economia nua e crua: O que é, para que serve, como funciona - Charles Wheelan (Autor)
+- Introdução À Economia - N. Gregory Mankiw
+- Os segredos da mente milionária - T. Harv Eker
 
 ///////Livros para ler e comprar(História e Ficção) - Em ordem de qual comprar /////////
 
@@ -58,8 +63,12 @@
 - A Revolta de Atlas por Ayn Rand
 
 
-///Livros Programação///
+///Livros Tecnologia///
 
+- Engenharia de Software - Produtos - Vol.1: Volume 1 por Wilson de Pádua PAULA FILHO
+- UML Essencial: Um Breve Guia para Linguagem Padrao - Martin Fowler
+- Engenharia de Software por Ian Sommerville
+- CSS Eficiente Técnicas e ferramentas que fazem a diferença nos seus estilos - Casa do Codigo
 - Guia Front-End: O caminho das pedras para ser um dev Front-End Livro por Diego Eis
 - HTML e CSS3 Domine a Web do futuro -  Lucas Mazza
 - HTML5 e CSS3 com Farinha e Pimenta por Diego Eis
@@ -77,10 +86,10 @@
 
 /// Ordem dos Livros a Ler ///
 
+- Pense e Enriquece - Napoleon Hill
 - 12 regras para a vida: Um antídoto para o caos de Jordan B. Peterson
 - Os crimes do mosaico -  Giulio Leoni (Autor)
 - A Arte da Guerra - SUN TZU (Autor)
-- Pai Rico, Pai Pobre - Robert Kiyosaki
 - Uma gota de sangue: história do pensamento racial  por Demétrio Magnoli
 - Estado e capital na China por Renildo Souza
 - O bazar dos sonhos ruins - Livro por Stephen King
@@ -97,6 +106,7 @@
 
 ////Lidos/////
 
+- Pai Rico, Pai Pobre - Robert Kiyosaki
 - O poder do subconsciente por Joseph Murphy
 - Entendendo Algoritmos : Um guia ilustrado para programadores e outros curiosos - Livro por Aditya Y.Bhargava
 - Musashi: O livro dos cinco anéis - Miyamoto Musashi  (Autor)
