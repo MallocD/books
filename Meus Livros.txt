@@ -2,6 +2,12 @@
 
 ///////Livros para ler e comprar(Crescimento Pessoal/ Psicologia) - Em ordem de qual comprar /////////
 
+- Poder sem limites: A nova ciência do sucesso pessoal  por Tony Robbins
+- O Homem é Aquilo que Ele Pensa  por James Allen
+- Inteligência Emocional - Daniel Goleman
+- A Arte da Guerra - SUN TZU (Autor)
+- Levante se e fale - Dale Carnigie
+- 12 regras para a vida: Um antídoto para o caos de Jordan B. Peterson
 - Faça o trabalho que precisa ser feito: Mantenha o foco. Realize mais. Gerencie sua energia. (Um guia acima da média - HBR)
 - A arte de dar feedback: Motive sua equipe. Melhore a comunicação. Estabeleça objetivos   claros. (Um guia acima da média - HBR)
 - Como Avaliar Sua Vida? Livro por Clayton M
@@ -24,8 +30,10 @@
 - Mindset: A nova psicologia do sucesso - Carol S. Dweck
 - Rápido e Devagar: Duas Formas de Pensar -Livro por Daniel Kahneman
 
-////Livros economia////
+////Livros economia / Investimentos ////
 
+- O Novo Posicionamento  por Trout Jack^Rivkin Steve
+- Alem Do Topo por Zig Ziglar
 - O príncipe - Nicolau Maquiavel (Autor)
 - A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade de Morgan Housel
 - O Mais Importante para o Investidor: Lições de um Gênio do Mercado Financeiro de Howard Marks
@@ -44,6 +52,7 @@
 - Economia nua e crua: O que é, para que serve, como funciona - Charles Wheelan (Autor)
 - Introdução À Economia - N. Gregory Mankiw
 - Os segredos da mente milionária - T. Harv Eker
+- The Warren Buffett Way por Robert G. Hagstrom
 
 ///////Livros para ler e comprar(História e Ficção) - Em ordem de qual comprar /////////
 
@@ -61,10 +70,18 @@
 - O apanhador no campo de centeio -J.D. Salinger
 - Memórias do subsolo- Fiódor Dostoiévski (Autor)
 - A Revolta de Atlas por Ayn Rand
+- O bazar dos sonhos ruins - Livro por Stephen King
+- Ptahotep
+- Misery -  Autor: Stephen King
+- Os crimes do mosaico -  Giulio Leoni (Autor)
+- Uma gota de sangue: história do pensamento racial  por Demétrio Magnoli
+- Pachinko - Livro por Min Jin Lee
 
 
-///Livros Tecnologia///
+///Livros Tecnologia / Ciência ///
 
+- Chaos: Making a New Science por James Gleick
+- Informação, conhecimento, ação autônoma e big data: continuidade ou revolução? por Daniel Martínez-Ávila
 - Engenharia de Software - Produtos - Vol.1: Volume 1 por Wilson de Pádua PAULA FILHO
 - UML Essencial: Um Breve Guia para Linguagem Padrao - Martin Fowler
 - Engenharia de Software por Ian Sommerville
@@ -82,30 +99,17 @@
 - Domain-Driven Design: Atacando as complexidades no coração do software -Eric Evans 
 - O retorno do cangaceiro JavaScript Autor - Flávio Almeida
 
+///Filosofia e Sociologia///
 
-
-/// Ordem dos Livros a Ler ///
-
-- Pense e Enriquece - Napoleon Hill
-- 12 regras para a vida: Um antídoto para o caos de Jordan B. Peterson
-- Os crimes do mosaico -  Giulio Leoni (Autor)
-- A Arte da Guerra - SUN TZU (Autor)
-- Uma gota de sangue: história do pensamento racial  por Demétrio Magnoli
-- Estado e capital na China por Renildo Souza
-- O bazar dos sonhos ruins - Livro por Stephen King
-- Inteligência Emocional - Daniel Goleman
-- A Recepção do Darwinismo no Brasil  por Heloisa Maria Bertol Domingues
-- Misery -  Autor: Stephen King
-- Os 7 hábitos das pessoas altamente eficazes - Stephen R. Covey
-- Informação, conhecimento, ação autônoma e big data: continuidade ou revolução? por Daniel Martínez-Ávila
-- Levante se e fale - Dale Carnigie
-- Pachinko - Livro por Min Jin Lee
 - Ciência, política e relações internacionais: Ensaios sobre Paulo Carneiro por Marcos Chor Maio
 - Filosofia, política e cosmologia: ensaios sobre o renascimento  por Fabrina Magalhães Pinto
-- Progresso e Moral na Filosofia da História de Kant por Bruno Nadai 
+- Progresso e Moral na Filosofia da História de Kant por Bruno Nadai
+- Estado e capital na China por Renildo Souza
+- A Recepção do Darwinismo no Brasil  por Heloisa Maria Bertol Domingues 
 
 ////Lidos/////
 
+- Pense e Enriquece - Napoleon Hill
 - Pai Rico, Pai Pobre - Robert Kiyosaki
 - O poder do subconsciente por Joseph Murphy
 - Entendendo Algoritmos : Um guia ilustrado para programadores e outros curiosos - Livro por Aditya Y.Bhargava
