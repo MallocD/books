@@ -55,7 +55,8 @@
 - The Warren Buffett Way por Robert G. Hagstrom
 
 ///////Livros para ler e comprar(História e Ficção) - Em ordem de qual comprar /////////
-
+- O Estupro de Nanquim Livro por Iris Chang
+- O Senhor das Moscas por William Golding
 - Grandes obras de Shakespeare  de William Shakespeare
 - As extraordinárias viagens de Júlio Verne de Júlio Verne, Frank Oliveira
 - A Divina Comédia Purgatório - Dante Alighieri
@@ -109,7 +110,7 @@
 
 ////Lidos/////
 
-- Pense e Enriquece - Napoleon Hill
+- Pense e Enriqueça - Napoleon Hill
 - Pai Rico, Pai Pobre - Robert Kiyosaki
 - O poder do subconsciente por Joseph Murphy
 - Entendendo Algoritmos : Um guia ilustrado para programadores e outros curiosos - Livro por Aditya Y.Bhargava
@@ -125,6 +126,8 @@
 - O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - Autor: Chad Fowler
 - Como Fazer Amigos e Influenciar Pessoas - Livro por Dale Carnegie
 - Inferno - Dan Brown
+
+
 
 
 
